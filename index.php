@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Hello WOrld</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat, quos!</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
